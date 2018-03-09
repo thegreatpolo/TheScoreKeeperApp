@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TennisCourtCounter</string>
+    <string name="team_a">Team A</string>
+    <string name="one_point">1 Point</string>
+    <string name="two_points">2 Points</string>
+    <string name="three_points">3 Points</string>
+    <string name="home">Home</string>
+    <string name="new_game">New Game</string>
+    <string name="point">Point</string>
+    <string name="team_b">Team B</string>
+    <string name="the_score_keeper_app">The score keeper app</string>
+    <string name="please_select_your_sport">Please select your sport</string>
+    <string name="tennis">Tennis</string>
+    <string name="football">Football</string>
+    <string name="basketball">Basketball</string>
+    <string name="player_1">Player 1</string>
+    <string name="game">Game</string>
+    <string name="set">Set</string>
+    <string name="player_2">Player 2</string>
+    <string name="tiebreak">TIEBREAK</string>
+</resources>
